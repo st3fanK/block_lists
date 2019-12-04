@@ -1,0 +1,11 @@
+# block list for domains hit by Plex
+metrics.plex.tv
+meta.plex.tv
+analytics.plex.tv
+metadata.provider.plex.tv
+music.provider.plex.tv
+plex.direct
+pubsub.plex.tv
+#bundle-archive.plex.tv
+#plugins.plex.tv
+#resources-cdn.plexapp.com
