@@ -21,3 +21,5 @@
 127.0.0.1 ibs.lgappstv.com
 127.0.0.1 lgtvsdp.com
 127.0.0.1 lgappstv.com
+# de
+127.0.0.1 de.lgtvsdp.com
